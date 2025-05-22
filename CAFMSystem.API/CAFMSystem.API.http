@@ -1,0 +1,6 @@
+@CAFMSystem.API_HostAddress = http://localhost:5167
+
+GET {{CAFMSystem.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
